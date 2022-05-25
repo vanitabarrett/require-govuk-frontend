@@ -1,0 +1,25 @@
+{
+  "name": "require-test-govuk-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanitabarrett/require-govuk-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanitabarrett/require-govuk-frontend/issues"
+  },
+  "homepage": "https://github.com/vanitabarrett/require-govuk-frontend#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "govuk-frontend": "^4.1.0"
+  }
+}
